@@ -1,0 +1,54 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  background-color: #2287c7;
+  opacity: 0.9;
+}
+
+ul li a.nav-link {
+  color: white;
+  font-size: 12px;
+}
+
+ul li a.nav-link:hover {
+  color: white;
+  font-size: 12px;
+}
+
+#hero {
+  background-color: #2287c7;
+  opacity: 0.9;
+}
+
+.judul {
+  font-size: 65px;
+  color: white;
+  font-weight: bold;
+}
+
+.deskripsi {
+  color: white;
+  opacity: 0.8;
+}
+
+.btn-mulai {
+  border: none;
+  width: 175px;
+  height: 40px;
+  color: #2287c7;
+  background-color: white;
+  font-weight: bold;
+}
+
+#kesanPesan {
+  background-color: #2287c7;
+  opacity: 0.9;
+  color: white;
+}
+
+.desc-kesan {
+  max-width: 500px;
+  margin-top: 20px;
+}
